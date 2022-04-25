@@ -2,6 +2,7 @@
 node_modules
 /dist
 
+.dbdata/**
 
 # local env files
 .env.local
